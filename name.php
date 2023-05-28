@@ -1,0 +1,1 @@
+$_POST jdtofrench gc_collect_cycles
